@@ -1,0 +1,38 @@
+Cloud computing
+Cloud computing means that instead of all the computer hardware and software you're using sitting on your desktop, or somewhere inside your company's network, it's provided for you as a service by another company and accessed over the Internet, usually in a completely seamless way, Exactly where the hardware and software is located and how it all works doesn't matter to you, the user—it's just somewhere up in the nebulous "cloud" that the Internet represents.
+
+Simple example:
+ Soundcloud—one of my favorite examples of a website (and mobile app) that uses It to good effect, Musicians and DJs upload their music, which "followers" can listen to (or preview) for free through real-time streaming, You can build up a personal collection of tracks you like and access them from any device, anytime, anywhere, The music you listen to stays up in the cloud: in theory, there is only ever one copy of every music file that's uploaded, Where is the music stored? No-one but Soundcloud needs to know—or care.
+
+
+Types of cloud computing:
+Infrastructure as a Service 
+Software as a Service 
+Platform as a Service.
+
+
+ IaaS means you're buying access to raw computing hardware over the Net, such as servers or storage, Since you buy what you need and pay-as-you-go, this is often referred to as utility computing, Ordinary web hosting is a simple example of IaaS: you pay a monthly subscription or a per-megabyte/gigabyte fee to have a hosting company serve up files for your website from their servers.
+
+SaaS means you use a complete application running on someone else's system, Web-based email and Google Documents are perhaps the best-known examples, Zoho is another well-known SaaS provider offering a variety of office applications online.
+
+PaaS means you develop applications using Web-based tools so they run on systems software and hardware provided by another company, So, for example, you might develop your own ecommerce website but have the whole thing, including the shopping cart, checkout, and payment mechanism running on a merchant's server, App Cloud (from salesforce.com) and the Google App Engine are examples of PaaS.
+
+
+Advantages and disadvantages
+
+Advantages include, allowing you to buy in only the services you want, when you want them, cutting the upfront capital costs of computers and peripherals, You avoid equipment going out of date and other familiar IT problems like ensuring system security and reliability, You can add extra services (or take them away) at a moment's notice as your business needs change, It's really quick and easy to add new applications or services to your business without waiting weeks or months for the new computer (and its software) to arrive.
+
+Drawbacks include, Instant convenience comes at a price, Instead of purchasing computers and software, It means you buy services, so one-off, upfront capital costs become ongoing operating costs instead, That might work out much more expensive in the long-term.
+
+
+
+Growth is, The figures speak for themselves: in every IT survey, news report, and pundit's op-ed, It seems the only show in town, Back in 2008, over a decade ago, the Pew Internet project reported that 69 percent of all Internet users had "either stored data online or used a web-based software application" (in other words, by their definition, used some form of It), In 2009, Gartner priced the value of It at $58.6 billion, in 2010 at $68.3 billion, in 2012 at over $102 billion, and in 2017 at $260 billion; its current forecast is for the sector to reach $302.5 billion by 2021, In 2013, management consultants McKinsey and Company forecast It (and related trends like big data, growing mobilization, and the Internet of Things) could have a "collective economic impact" of between $10–20 trillion by 2025, In 2016, Amazon revealed that its AWS offshoot, the world's biggest provider of It, had become a $10 billion-a-year business; by 2019, that figure had leaped to an astonishing $25,7 billion—more than the entire revenue for the giant global McDonald's empire in 2018, The Microsoft Cloud isn't far behind.
+
+Business benefits include, Businesses have shrewder and more interesting reasons for liking the cloud, Instead of depending on Microsoft Office, to give one very concrete example, they can use free, cloud-based open-source alternatives such as Google Docs, So there are obvious cost and practical advantages: you don't have to worry about expensive software licenses or security updates, and your staff can simply and securely share documents across business locations (and work on them just as easily from home), Using It to run applications has a similarly compelling business case: you can buy in as much (or little) computing resource as you need at any given moment, so there's no problem of having to fund expensive infrastructure upfront. If you run something like an ecommerce website on cloud hosting, you can scale it up or down for the holiday season or the sales, just as you need to. Best of all, you don't need a geeky IT department because—beyond commodity computers running open-source web browsers—you don't need IT.
+
+Mobilization means, One of the biggest single drivers of It is the huge shift away from desktop computers to mobile devices, which (historically, at least) had much less processing power onboard, Web-connected smartphones, tablets, Kindles, and other mobile devices are examples of what used to be called "thin clients" or "network computers" because they rely on the servers they're connected to, via the network (usually the Internet), to do most of the work. A related trend referred to as bring your own device (BYOD) reflects the way that many companies now allow their employees to logon to corporate networks or websites using their own laptops, tablets, and smartphones.
+
+From the smartphone in your pocket to the mythical fridge that orders your milk, the number and range of devices connected to the Internet is increasing all the time. A new trend called the Internet of Things anticipates a massive increase in connected devices as everyday objects and things with built-in sensors (home heating controllers, home security webcams, and even parcels in transit) get their own IP addresses and become capable of sending and receiving data to anything or anyone else that's online. That will fuel the demand for It even more.
+
+It makes it possible for cellphones to be smartphones and for tablets to do the sorts of things that we used to do on desktops, but it also encourages us to do more things with those devices—and so on, in a virtuous circle. For example, if you buy a smartphone, you don't simply do things on your phone that you used to do on your PC: you spend more time online overall, using apps and services that you previously wouldn't have used at all. It made mobile devices feasible, so people bought them in large numbers, driving the development of more mobile apps and better mobile devices, and so on.
+
